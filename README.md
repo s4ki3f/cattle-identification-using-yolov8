@@ -7,7 +7,10 @@ Cattle Muzzle Identification, may need both object detection and classification 
   <a href="https://colab.research.google.com/github/s4ki3f/yolo/blob/main/notebooks/train-yolov8-object-classification-on-custom-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 </div>
 <br>
-![7110296c-9851-4ab1-9ea0-40ce964fe1db](https://user-images.githubusercontent.com/29111757/214820959-ee14775c-7871-4ec3-a18d-48837494fcc7.jpeg)
+
+![pred2](https://user-images.githubusercontent.com/29111757/214821933-520d51d3-5ae3-45de-83aa-939468f631eb.png)
+![predicted](https://user-images.githubusercontent.com/29111757/214822103-1c7e8211-327a-4949-a14e-2942d80da781.png)
+![pred1](https://user-images.githubusercontent.com/29111757/214822112-273ebd41-5b80-49e6-b601-3a17e912771d.png)
 
 
 At First checking the Grapichs information, they are connected or not,
