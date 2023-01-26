@@ -96,4 +96,5 @@ results will be saved under this,
 ```bash
 !ls {HOME}/runs/classify/predict
 ```
+![download (3)](https://user-images.githubusercontent.com/29111757/214815910-3551949f-bfd5-4b67-95f9-8ee84f46b6f9.png)
 
